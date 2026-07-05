@@ -27,7 +27,7 @@
 在终端中执行以下命令即可完成安装：
 
 ```bash
-git clone --branch master --depth 1 https://github.com/nelvko/clash-for-linux-install.git \
+git clone --branch master --depth 1 https://github.com/vicdorke/clash-for-linux-install.git \
   && cd clash-for-linux-install \
   && bash install.sh
 ```
